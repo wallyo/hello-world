@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model Test",
+    "owner": "me",
+    "description": "testing threat dragon for threat modeling"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "you"
+  }
+}
